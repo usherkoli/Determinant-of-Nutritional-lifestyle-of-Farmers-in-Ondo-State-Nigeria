@@ -70,7 +70,7 @@ The raw data was exported to Excel 2016 and saved in xlsx format. The saved data
 
 ### Data Vizualization (Power Bi)
 
-
+![alt text](https://github.com/[usherkoli]/[Untitled.gif]/blob/[branch]/image.jpg?raw=true)
 
 ### Hypothesis Result (SPSS 16)
 Ho1: There is no significant relationship between selected socio-economic characteristics of 
