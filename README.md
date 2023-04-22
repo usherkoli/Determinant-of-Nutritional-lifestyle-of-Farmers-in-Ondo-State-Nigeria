@@ -69,7 +69,7 @@ The raw data was exported to Excel 2016 and saved in xlsx format. The saved data
 
 
 ### Data Vizualization (Power Bi)
-![Power Bi vizualization](./Untitled.gif/Untitled.gif)
+![Power Bi vizualization]![https://github.com/usherkoli/Determinant-of-Nutritional-lifestyle-of-Farmers-in-Ondo-State-Nigeria/blob/9858b28f3fb14ae1ea38e31608f1f1876f052fc6/Untitled.gif](Untitled.gif)
 
 
 ### Hypothesis Result (SPSS 16)
