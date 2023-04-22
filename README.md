@@ -69,6 +69,7 @@ The raw data was exported to Excel 2016 and saved in xlsx format. The saved data
 
 
 ### Data Vizualization (Power Bi)
+![Power Bi vizualization](./ReadMe-Images/untitled.gif)
 
 
 ### Hypothesis Result (SPSS 16)
